@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: w.Test1
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.061 s <<< FAILURE! - in w.Test1
+failTest  Time elapsed: 10.01 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <0> but was: <1>
+	at w.Test1.failTest(Test1.java:21)
+
